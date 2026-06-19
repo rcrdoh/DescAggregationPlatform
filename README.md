@@ -1,2 +1,2 @@
 # DescAggregationPlatform
-Platform to agreggate registries from 
+Platform to agreggate registries 
